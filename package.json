@@ -10,6 +10,18 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "author": "https://github.com/dev-saeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-saeed/react-covid19-hooks/issues"
+  },
+  "homepage": "https://github.com/dev-saeed/react-covid19-hooks",
+  "keywords": [
+    "corona",
+    "covid19",
+    "corona-virus",
+    "PromiseRejectionHandledWarning"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

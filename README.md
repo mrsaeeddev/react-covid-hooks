@@ -82,3 +82,15 @@ Contributions/PRs/Feedback is welcome
 ## 📔 License
 
 This library is release under [MIT License](https://github.com/dev-saeed/react-covid19-hooks/blob/master/LICENSE)
+
+
+## ⛓️ Connect
+
+<div align="left">
+    <p><a href="https://github.com/dev-saeed"><img alt="GitHub @dev-saeed" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong>Want to get updated on latest trends in Open Source? Follow me on GitHub</small></p>
+    <p><a href="https://twitter.com/iamsaeed_dev/"><img alt="Twitter @iamsaeed_dev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong>Want to get help or discuss something? Get connected on Twitter</small></p>
+    <p><a href="https://saeeddev.netlify.com/"><img alt="Blog: saeeddev.netlify.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong>Want to see my work? Visit my portfolio site</small></p>
+    <p><a href="https://www.linkedin.com/in/saeeddev/"><img alt="LinkedIn @saeeddev" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong>Want to see my professional journey? Connect on LinkedIn</small></p>
+</div>
+
+<br>
