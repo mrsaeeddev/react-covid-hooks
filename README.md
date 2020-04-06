@@ -12,6 +12,17 @@
 </h4>
 <br/>
 
-# React COVID19 Hooks
+<h1 align="center">
+# react-covid19-hooks
+</h1>
+> 📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks
 
-- 
+- 🚀 get overall statistics, country-wise, state-wise (US) and statistics till yesterday
+- 🦠 get overall statistics for COVID19
+- 🇺🇸 get updated statistics for all US states
+- 🗺️ get statistics for all countries of the world 
+- ⏮️ get updates statistics for yesterday
+- 📈 For overall statistics, Data : updated (Time Stamp), cases, todayCases, deaths, todayDeaths, recovered, active, critical, casesPerOneMillion, deathsPerOneMillion, tests, testsPerOneMillion, affectedCountries
+- 📈 For all states of the US, Data : state, cases, todayCases, deaths, todayDeaths, active, tests, testsPerOneMillion
+- 📈 For all countries of the world, Data : country, countryInfo, updated, cases, todayCases, deaths, todayDeaths, recovered, active, critical, casesPerOneMillion, deathsPerOneMillion, tests, testsPerOneMillion
+- 📈 For statistics till yesterday, Data : country, countryInfo, updated, cases, todayCases, deaths, todayDeaths, recovered, active, critical, casesPerOneMillion, deathsPerOneMillion, tests, testsPerOneMillion
