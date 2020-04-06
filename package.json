@@ -1,5 +1,5 @@
 {
-  "name": "react-covid19-hooks",
+  "name": "react-covid-hooks",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -12,9 +12,9 @@
   "author": "https://github.com/dev-saeed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dev-saeed/react-covid19-hooks/issues"
+    "url": "https://github.com/dev-saeed/react-covid-hooks/issues"
   },
-  "homepage": "https://github.com/dev-saeed/react-covid19-hooks",
+  "homepage": "https://github.com/dev-saeed/react-covid-hooks",
   "keywords": [
     "corona",
     "covid-19",

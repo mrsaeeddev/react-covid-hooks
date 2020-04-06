@@ -1,6 +1,6 @@
 <h4 align="center">
-    <a href="https://github.com/dev-saeed/react-covid19-hooks">
-        <img src="https://github.com/dev-saeed/react-covid19-hooks/blob/master/logo.png">
+    <a href="https://github.com/dev-saeed/react-covid-hooks">
+        <img src="https://github.com/dev-saeed/react-covid-hooks/blob/master/logo.png">
     </a>
 
 <br/>
@@ -8,12 +8,12 @@
 
 📈 Statistics for 🦠 COVID19 harnessing the power of ⚛️ React Hooks
 
-[![NPM](https://img.shields.io/npm/v/react-covid19-hooks.svg)](https://www.npmjs.com/package/neumorphic-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Inline docs](http://inch-ci.org/github/dev-saeed/react-covid19-hooks.svg?branch=master)](http://inch-ci.org/github/dev-saeed/react-covid19-hooks) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dev-saeed/react-covid19-hooks/issues)
+[![NPM](https://img.shields.io/npm/v/react-covid-hooks.svg)](https://www.npmjs.com/package/neumorphic-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Inline docs](http://inch-ci.org/github/dev-saeed/react-covid-hooks.svg?branch=master)](http://inch-ci.org/github/dev-saeed/react-covid-hooks) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dev-saeed/react-covid-hooks/issues)
 </h4>
 <br/>
 
 
-# react-covid19-hooks
+# react-covid-hooks
 > 📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks
 
 - 🚀 get overall statistics, country-wise, state-wise (US) and statistics till yesterday
@@ -31,7 +31,7 @@
 ## 📥 Install
 
 ```
-npm install react-covid19-hooks
+npm install react-covid-hooks
 ```
 
 
@@ -40,7 +40,7 @@ npm install react-covid19-hooks
 ### 📈 All Statistics
 
 ```
-import { useAll } from 'react-covid19-hooks';
+import { useAll } from 'react-covid-hooks';
 
 const allStats = useAll();
 ```
@@ -48,7 +48,7 @@ const allStats = useAll();
 ### 📈 Country-wise Statistics
 
 ```
-import { useCountries } from 'react-covid19-hooks';
+import { useCountries } from 'react-covid-hooks';
 
 const allCountries = useCountries();
 ```
@@ -56,7 +56,7 @@ const allCountries = useCountries();
 ### 📈 State-wise Statistics 
 
 ```
-import { useStates } from 'react-covid19-hooks';
+import { useStates } from 'react-covid-hooks';
 
 const allStates = useStates();
 ```
@@ -64,14 +64,14 @@ const allStates = useStates();
 ### 📈 Statistics till Yesterday
 
 ```
-import { useYesterday } from 'react-covid19-hooks';
+import { useYesterday } from 'react-covid-hooks';
 
 const yesterdayStats = useYesterday();
 ```
 
 ## 🗒️ Changelog
 
-Changelog exists in the [releases](https://github.com/dev-saeed/react-covid19-hooks/releases) tab
+Changelog exists in the [releases](https://github.com/dev-saeed/react-covid-hooks/releases) tab
 
 
 ## ⚙️ Contributions
@@ -81,7 +81,7 @@ Contributions/PRs/Feedback is welcome
 
 ## 📔 License
 
-This library is release under [MIT License](https://github.com/dev-saeed/react-covid19-hooks/blob/master/LICENSE)
+This library is release under [MIT License](https://github.com/dev-saeed/react-covid-hooks/blob/master/LICENSE)
 
 
 ## ⛓️ Connect
