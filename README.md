@@ -25,3 +25,55 @@
 - 📈 For all states of the US, Data : state, cases, todayCases, deaths, todayDeaths, active, tests, testsPerOneMillion
 - 📈 For all countries of the world, Data : country, countryInfo, updated, cases, todayCases, deaths, todayDeaths, recovered, active, critical, casesPerOneMillion, deathsPerOneMillion, tests, testsPerOneMillion
 - 📈 For statistics till yesterday, Data : country, countryInfo, updated, cases, todayCases, deaths, todayDeaths, recovered, active, critical, casesPerOneMillion, deathsPerOneMillion, tests, testsPerOneMillion
+
+
+
+## 📥 Install
+
+```
+npm install react-covid19-hooks
+```
+
+
+## 💅 Usage
+
+### 📈 All Statistics
+
+```
+import { useAll } from 'react-covid19-hooks';
+
+const allStats = useAll();
+```
+
+### 📈 Country-wise Statistics
+
+```
+import { useCountries } from 'react-covid19-hooks';
+
+const allCountries = useCountries();
+```
+
+### 📈 State-wise Statistics 
+
+```
+import { useStates } from 'react-covid19-hooks';
+
+const allStates = useStates();
+```
+
+### 📈 Statistics till Yesterday
+
+```
+import { useYesterday } from 'react-covid19-hooks';
+
+const yesterdayStats = useYesterday();
+```
+
+## 🗒️ Changelog
+
+Changelog exists in the [releases](https://github.com/dev-saeed/react-covid19-hooks/releases) tab
+
+
+## ⚙️ Contributions
+
+Contributions/PRs/Feedback is welcome
