@@ -18,9 +18,11 @@
   "homepage": "https://github.com/dev-saeed/react-covid19-hooks",
   "keywords": [
     "corona",
+    "covid-19",
     "covid19",
-    "corona-virus",
-    "PromiseRejectionHandledWarning"
+    "coronavirus",
+    "virus",
+    "cdc"
   ],
   "scripts": {
     "start": "react-scripts start",
