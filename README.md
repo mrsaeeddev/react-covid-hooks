@@ -12,9 +12,8 @@
 </h4>
 <br/>
 
-<h1 align="center">
+
 # react-covid19-hooks
-</h1>
 > 📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks
 
 - 🚀 get overall statistics, country-wise, state-wise (US) and statistics till yesterday
