@@ -77,3 +77,8 @@ Changelog exists in the [releases](https://github.com/dev-saeed/react-covid19-ho
 ## ⚙️ Contributions
 
 Contributions/PRs/Feedback is welcome
+
+
+## 📔 License
+
+This library is release under [MIT License](https://github.com/dev-saeed/react-covid19-hooks/blob/master/LICENSE)
