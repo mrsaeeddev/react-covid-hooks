@@ -1,6 +1,6 @@
 <h4 align="center">
     <a href="https://github.com/dev-saeed/react-covid-hooks">
-        <img src="https://github.com/dev-saeed/react-covid-hooks/blob/master/logo.png">
+        <img src="https://github.com/dev-saeed/react-covid-hooks/blob/master/logo.png?raw=true">
     </a>
 
 <br/>

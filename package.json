@@ -1,6 +1,6 @@
 {
   "name": "react-covid-hooks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
