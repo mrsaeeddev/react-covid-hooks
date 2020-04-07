@@ -45,6 +45,7 @@ import { useAll } from 'react-covid-hooks';
 const allStats = useAll();
 ```
 
+
 ### 📈 Country-wise Statistics
 
 ```
@@ -52,6 +53,7 @@ import { useCountries } from 'react-covid-hooks';
 
 const allCountries = useCountries();
 ```
+
 
 ### 📈 State-wise Statistics 
 
@@ -61,6 +63,7 @@ import { useStates } from 'react-covid-hooks';
 const allStates = useStates();
 ```
 
+
 ### 📈 Statistics till Yesterday
 
 ```
@@ -69,9 +72,12 @@ import { useYesterday } from 'react-covid-hooks';
 const yesterdayStats = useYesterday();
 ```
 
+
+
 ## 🗒️ Changelog
 
 Changelog exists in the [releases](https://github.com/dev-saeed/react-covid-hooks/releases) tab
+
 
 
 ## ⚙️ Contributions
@@ -79,9 +85,11 @@ Changelog exists in the [releases](https://github.com/dev-saeed/react-covid-hook
 Contributions/PRs/Feedback is welcome
 
 
+
 ## 📔 License
 
 This library is release under [MIT License](https://github.com/dev-saeed/react-covid-hooks/blob/master/LICENSE)
+
 
 
 ## ⛓️ Connect
