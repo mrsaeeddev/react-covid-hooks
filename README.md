@@ -1,6 +1,6 @@
 <h4 align="center">
-    <a href="https://github.com/dev-saeed/react-covid-hooks">
-        <img src="https://raw.githubusercontent.com/dev-saeed/react-covid-hooks/master/logo.png">
+    <a href="https://github.com/iamsaeeddev/react-covid-hooks">
+        <img src="https://raw.githubusercontent.com/iamsaeeddev/react-covid-hooks/master/logo.png">
     </a>
 
 <br/>
@@ -8,7 +8,7 @@
 
 📈 Statistics for 🦠 COVID19 harnessing the power of ⚛️ React Hooks
 
-[![NPM](https://img.shields.io/npm/v/react-covid-hooks.svg)](https://www.npmjs.com/package/neumorphic-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Inline docs](http://inch-ci.org/github/dev-saeed/react-covid-hooks.svg?branch=master)](http://inch-ci.org/github/dev-saeed/react-covid-hooks) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dev-saeed/react-covid-hooks/issues)
+[![NPM](https://img.shields.io/npm/v/react-covid-hooks.svg)](https://www.npmjs.com/package/react-covid-hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Inline docs](http://inch-ci.org/github/iamsaeeddev/react-covid-hooks.svg?branch=master)](http://inch-ci.org/github/iamsaeeddev/react-covid-hooks) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iamsaeeddev/react-covid-hooks/issues)
 </h4>
 <br/>
 
@@ -76,7 +76,7 @@ const yesterdayStats = useYesterday();
 
 ## 🗒️ Changelog
 
-Changelog exists in the [releases](https://github.com/dev-saeed/react-covid-hooks/releases) tab
+Changelog exists in the [releases](https://github.com/iamsaeeddev/react-covid-hooks/releases) tab
 
 
 
@@ -88,17 +88,17 @@ Contributions/PRs/Feedback is welcome
 
 ## 📔 License
 
-This library is release under [MIT License](https://github.com/dev-saeed/react-covid-hooks/blob/master/LICENSE)
+This library is release under [MIT License](https://github.com/iamsaeeddev/react-covid-hooks/blob/master/LICENSE)
 
 
 
 ## ⛓️ Connect
 
 <div align="left">
-    <p><a href="https://github.com/dev-saeed"><img alt="GitHub @dev-saeed" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong> 💻 </strong> Want to get updated on latest trends in Open Source? Follow me on GitHub!</small></p>
-    <p><a href="https://twitter.com/iamsaeed_dev/"><img alt="Twitter @iamsaeed_dev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong> 🐦 </strong> Want to get help or discuss something? Get connected on Twitter!</small></p>
-    <p><a href="https://dev.to/saeeddev"><img alt="DEV @saeeddev" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong> 📖 </strong> Want to read my articles? Visit my DEV blog!</small></p>
-    <p><a href="https://www.linkedin.com/in/saeeddev/"><img alt="LinkedIn @saeeddev" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong> 🏢 </strong> Want to see my professional journey? Let's Connect on LinkedIn</small></p>
+    <p><a href="https://github.com/iamsaeeddev"><img alt="GitHub @iamsaeeddev" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong> 💻 </strong> Want to get updated on latest trends in Open Source? Follow me on GitHub!</small></p>
+    <p><a href="https://twitter.com/iamsaeeddev/"><img alt="Twitter @iamsaeeddev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong> 🐦 </strong> Want to get help or discuss something? Get connected on Twitter!</small></p>
+    <p><a href="https://dev.to/iamsaeeddev"><img alt="DEV @iamsaeeddev" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong> 📖 </strong> Want to read my articles? Visit my DEV blog!</small></p>
+    <p><a href="https://www.linkedin.com/in/iamsaeeddev/"><img alt="LinkedIn @iamsaeeddev" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong> 🏢 </strong> Want to see my professional journey? Let's Connect on LinkedIn</small></p>
 </div>
 
 <br>

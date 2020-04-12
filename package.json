@@ -1,6 +1,6 @@
 {
   "name": "react-covid-hooks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "📈 Get Statistics for 🦠  COVID19 Harnessing the Power of  ⚛️ React Hooks",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -10,12 +10,12 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "author": "https://github.com/dev-saeed",
+  "author": "https://github.com/iamsaeeddev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dev-saeed/react-covid-hooks/issues"
+    "url": "https://github.com/iamsaeeddev/react-covid-hooks/issues"
   },
-  "homepage": "https://github.com/dev-saeed/react-covid-hooks",
+  "homepage": "https://github.com/iamsaeeddev/react-covid-hooks",
   "keywords": [
     "corona",
     "covid-19",
