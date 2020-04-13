@@ -6,10 +6,10 @@ export const useAll = () => {
 
   useEffect(() => {
     fetch(apiEndPoint+"all").then((res)=>{
-      res.json()
-    }).then(data=>(
-      setAllStats(data)
-    ))
+      res.json().then((data)=>{
+        setAllStats(data)
+      })
+    })
   },[]);
 
   return allStats
@@ -21,10 +21,10 @@ export const useStates = () => {
 
   useEffect(() => {
     fetch(apiEndPoint+"states").then((res)=>{
-      res.json()
-    }).then(data=>(
-      setStateStats(data)
-    ))
+      res.json().then(data=>(
+        setStateStats(data)
+      ))
+    })
   },[]);
 
   return stateStats
@@ -36,10 +36,10 @@ export const useCountries = () => {
 
   useEffect(() => {
     fetch(apiEndPoint+"countries").then((res)=>{
-      res.json()
-    }).then(data=>(
-      setCountryStats(data)
-    ))
+      res.json().then(data=>(
+        setCountryStats(data)
+      ))
+    })
   },[]);
   
   return countryStats
@@ -51,13 +51,11 @@ export const useYesterday = () => {
 
   useEffect(() => {
     fetch(apiEndPoint+"yesterday").then((res)=>{
-      res.json()
-    }).then(data=>(
-      setYesterdayStats(data)
-    ))
+      res.json().then(data=>(
+        setYesterdayStats(data)
+      ))
+    })
   },[]);
   
   return yesterdayStats
 }
-
-
