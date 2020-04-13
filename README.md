@@ -8,7 +8,7 @@
 
 📈 Statistics for 🦠 COVID19 harnessing the power of ⚛️ React Hooks
 
-[![NPM](https://img.shields.io/npm/v/react-covid-hooks.svg)](https://www.npmjs.com/package/react-covid-hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Inline docs](http://inch-ci.org/github/iamsaeeddev/react-covid-hooks.svg?branch=master)](http://inch-ci.org/github/iamsaeeddev/react-covid-hooks) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iamsaeeddev/react-covid-hooks/issues)
+[![NPM](https://img.shields.io/npm/v/react-covid-hooks.svg)](https://www.npmjs.com/package/react-covid-hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iamsaeeddev/react-covid-hooks/issues)
 </h4>
 <br/>
 
