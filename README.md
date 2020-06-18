@@ -76,7 +76,7 @@ const yesterdayStats = useYesterday();
 
 ## 🗒️ Changelog
 
-Changelog exists in the [releases](https://github.com/iamsaeeddev/react-covid-hooks/releases) tab
+Changelog exists in the [releases](https://github.com/mrsaeeddev/react-covid-hooks/releases) tab
 
 
 
@@ -88,17 +88,17 @@ Contributions/PRs/Feedback is welcome
 
 ## 📔 License
 
-This library is release under [MIT License](https://github.com/iamsaeeddev/react-covid-hooks/blob/master/LICENSE)
+This library is release under [MIT License](https://github.com/mrsaeeddev/react-covid-hooks/blob/master/LICENSE)
 
 
 
 ## ⛓️ Connect
 
 <div align="left">
-    <p><a href="https://github.com/iamsaeeddev"><img alt="GitHub @iamsaeeddev" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong> 💻 </strong> Want to get updated on latest trends in Open Source? Follow me on GitHub!</small></p>
-    <p><a href="https://twitter.com/iamsaeeddev/"><img alt="Twitter @iamsaeeddev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong> 🐦 </strong> Want to get help or discuss something? Get connected on Twitter!</small></p>
-    <p><a href="https://dev.to/iamsaeeddev"><img alt="DEV @iamsaeeddev" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong> 📖 </strong> Want to read my articles? Visit my DEV blog!</small></p>
-    <p><a href="https://www.linkedin.com/in/iamsaeeddev/"><img alt="LinkedIn @iamsaeeddev" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong> 🏢 </strong> Want to see my professional journey? Let's Connect on LinkedIn</small></p>
+    <p><a href="https://github.com/mrsaeeddev"><img alt="GitHub @mrsaeeddev" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong> 💻 </strong> Want to get updated on latest trends in Open Source? Follow me on GitHub!</small></p>
+    <p><a href="https://twitter.com/mrsaeeddev/"><img alt="Twitter @mrsaeeddev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong> 🐦 </strong> Want to get help or discuss something? Get connected on Twitter!</small></p>
+    <p><a href="https://dev.to/mrsaeeddev"><img alt="DEV @mrsaeeddev" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong> 📖 </strong> Want to read my articles? Visit my DEV blog!</small></p>
+    <p><a href="https://www.linkedin.com/in/mrsaeeddev/"><img alt="LinkedIn @mrsaeeddev" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong> 🏢 </strong> Want to see my professional journey? Let's Connect on LinkedIn</small></p>
 </div>
 
 <br>
